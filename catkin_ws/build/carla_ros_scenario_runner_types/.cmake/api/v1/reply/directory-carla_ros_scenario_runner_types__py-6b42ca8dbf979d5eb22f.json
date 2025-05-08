@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "carla_ros_scenario_runner_types__py",
+		"source" : "/home/vd/carla-ros-bridge/catkin_ws/build/carla_ros_scenario_runner_types/carla_ros_scenario_runner_types__py"
+	}
+}

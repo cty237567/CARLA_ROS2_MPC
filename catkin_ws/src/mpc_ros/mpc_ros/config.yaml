@@ -1,0 +1,17 @@
+# ROS2 Topics
+odom_topic:         "/carla/agent_0/odometry"
+ctl_topic:          "/carla/agent_0/vehicle_control_cmd"
+receding:            8
+max_speed:           8.0
+ref_speed:           4.0
+max_acce:            1.0
+max_acce_steer:      0.02
+ample_time:         0.2
+max_steer:           0.5
+wheelbase:           2.87
+shape:               [4.69, 1.85, 2.87, 1.75]
+cs:                  [1.0, 1.0, 1.0]
+cu:                  1.0
+cst:                 [1.0, 1.0, 1.0]
+cut:                 1.0
+

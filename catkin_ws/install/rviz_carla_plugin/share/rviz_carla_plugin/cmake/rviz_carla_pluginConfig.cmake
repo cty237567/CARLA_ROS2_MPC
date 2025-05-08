@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/rviz_carla_plugin/ament_cmake_core/rviz_carla_pluginConfig.cmake

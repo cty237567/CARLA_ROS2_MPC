@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "carla_ackermann_msgs__py",
+		"source" : "/home/vd/carla-ros-bridge/catkin_ws/build/carla_ackermann_msgs/carla_ackermann_msgs__py"
+	}
+}

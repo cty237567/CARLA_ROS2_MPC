@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_manual_control/launch/carla_manual_control.launch.py

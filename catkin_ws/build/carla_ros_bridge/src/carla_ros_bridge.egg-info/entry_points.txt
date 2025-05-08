@@ -1,0 +1,4 @@
+[console_scripts]
+bridge = carla_ros_bridge.bridge:main
+carla_ros_bridge = carla_ros_bridge.bridge:main
+

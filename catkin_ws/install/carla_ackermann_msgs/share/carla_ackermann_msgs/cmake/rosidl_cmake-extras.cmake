@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/carla_ackermann_msgs/rosidl_cmake/rosidl_cmake-extras.cmake

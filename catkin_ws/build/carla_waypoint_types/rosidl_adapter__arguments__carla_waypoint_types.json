@@ -1,0 +1,8 @@
+{
+  "package_name": "carla_waypoint_types",
+  "non_idl_tuples": [
+    "/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_waypoint_types:msg/CarlaWaypoint.msg",
+    "/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_waypoint_types:srv/GetWaypoint.srv",
+    "/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_waypoint_types:srv/GetActorWaypoint.srv"
+  ]
+}

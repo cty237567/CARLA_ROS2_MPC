@@ -1,0 +1,10 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/uninstall.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/pcl_recorder_uninstall.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/pcl_recorder_node.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/test.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/edit_cache.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/rebuild_cache.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/list_install_components.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/install.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/install/local.dir
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/CMakeFiles/install/strip.dir

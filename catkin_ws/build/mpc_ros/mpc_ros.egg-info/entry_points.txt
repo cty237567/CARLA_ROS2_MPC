@@ -1,0 +1,5 @@
+[console_scripts]
+carla_map_visualization = mpc_ros.carla_map_visualization:main
+mpc_Town04_launch = mpc_ros.mpc_Town04:main
+static_waypoint_publisher = mpc_ros.static_waypoint_publisher:main
+

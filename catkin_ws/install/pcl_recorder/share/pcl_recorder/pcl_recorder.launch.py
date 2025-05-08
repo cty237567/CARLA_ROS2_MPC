@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/pcl_recorder/launch/pcl_recorder.launch.py

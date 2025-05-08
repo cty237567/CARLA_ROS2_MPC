@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>mpc_ros</name>
+  <version>0.0.0</version>
+  <description>TODO: Package description</description>
+  <maintainer email="guna656565@gmail.com">vd</maintainer>
+  <license>TODO: License declaration</license>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>visualization_msgs</depend>
+  <exec_depend>carla_msgs</exec_depend>
+  <depend>gazebo_msgs</depend>
+  <depend>tf_transformations</depend>
+  <depend>carla-ros-bridge</depend>
+
+  <exec_depend>derived_object_msgs</exec_depend>
+  <exec_depend>shape_msgs</exec_depend>
+  <exec_depend>tf2_msgs</exec_depend>
+  <exec_depend>rosgraph_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>carla_common</exec_depend>
+  <exec_depend>carla_spawn_objects</exec_depend>
+  <exec_depend>carla_manual_control</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>python-transforms3d-pip</exec_depend>
+  <exec_depend>ros_compatibility</exec_depend>
+  <exec_depend>rviz_carla_plugin</exec_depend>
+  <exec_depend>carla_waypoint_publisher</exec_depend>
+  <exec_depend>plc_recorder</exec_depend>
+  <exec_depend>rqt_carla_control</exec_depend>
+  <depend>tf2</depend>
+  <depend>tf2_ros</depend>
+  <depend>tf2_geometry_msgs</depend>
+  <depend>rviz_common</depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-yaml</exec_depend>
+  <exec_depend>python3-cvxpy</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

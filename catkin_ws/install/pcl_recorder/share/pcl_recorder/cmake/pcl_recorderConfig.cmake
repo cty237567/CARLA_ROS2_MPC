@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/pcl_recorder/ament_cmake_core/pcl_recorderConfig.cmake

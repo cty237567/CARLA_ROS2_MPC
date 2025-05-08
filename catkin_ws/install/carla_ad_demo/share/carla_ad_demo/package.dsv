@@ -1,0 +1,12 @@
+source;share/carla_ad_demo/hook/cmake_prefix_path.ps1
+source;share/carla_ad_demo/hook/cmake_prefix_path.dsv
+source;share/carla_ad_demo/hook/cmake_prefix_path.sh
+source;share/carla_ad_demo/hook/pythonpath.ps1
+source;share/carla_ad_demo/hook/pythonpath.dsv
+source;share/carla_ad_demo/hook/pythonpath.sh
+source;share/carla_ad_demo/hook/ament_prefix_path.ps1
+source;share/carla_ad_demo/hook/ament_prefix_path.dsv
+source;share/carla_ad_demo/hook/ament_prefix_path.sh
+source;../../build/carla_ad_demo/share/carla_ad_demo/hook/pythonpath_develop.ps1
+source;../../build/carla_ad_demo/share/carla_ad_demo/hook/pythonpath_develop.dsv
+source;../../build/carla_ad_demo/share/carla_ad_demo/hook/pythonpath_develop.sh

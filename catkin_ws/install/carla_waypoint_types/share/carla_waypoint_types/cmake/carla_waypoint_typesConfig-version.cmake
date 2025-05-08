@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/carla_waypoint_types/ament_cmake_core/carla_waypoint_typesConfig-version.cmake

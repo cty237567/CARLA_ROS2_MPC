@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-287fb0c9acf38be6c509.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "carla_ackermann_msgs__py",
+					"jsonFile" : "directory-carla_ackermann_msgs__py-0c8d3d1a6ef7528ec2e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/vd/carla-ros-bridge/catkin_ws/build/carla_ackermann_msgs/carla_ackermann_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "carla_ackermann_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_carla_ackermann_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_carla_ackermann_msgs_egg-d8609d105356fb426c2f.json",
+					"name" : "ament_cmake_python_build_carla_ackermann_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_carla_ackermann_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_carla_ackermann_msgs-863f13001714d69383eb.json",
+					"name" : "ament_cmake_python_symlink_carla_ackermann_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs-8fc5bc8c8ee99800ca45.json",
+					"name" : "carla_ackermann_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__cpp-1263aadd580585a54f68.json",
+					"name" : "carla_ackermann_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "carla_ackermann_msgs__py::@d8cb4df29f2816172d75",
+					"jsonFile" : "target-carla_ackermann_msgs__py-c5c0b4fb822a3c1d0e2b.json",
+					"name" : "carla_ackermann_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_generator_c-4ab2cc9c3eda67fd8c99.json",
+					"name" : "carla_ackermann_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_generator_py-925376f57f424a488010.json",
+					"name" : "carla_ackermann_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_c-c34a8230e25fb6bf87f2.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_c__pyext-cc6bacfbe954d311235e.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_cpp-48a48d3930bc84252c9f.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_fastrtps_c-74ab3b791b3a8efd0423.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_fastrtps_c__pyext-355b3cc53f4618e7f97c.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_fastrtps_cpp-e67cefad83fead626a85.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_introspection_c-7771422f106a46218d6c.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_introspection_c__pyext-bb6ea457d679b54a8460.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs__rosidl_typesupport_introspection_cpp-2a1bddb0c20e048d8503.json",
+					"name" : "carla_ackermann_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_ackermann_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_ackermann_msgs_uninstall-4590bf1f36996a5a5a89.json",
+					"name" : "carla_ackermann_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-544b7d20a54e42773908.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vd/carla-ros-bridge/catkin_ws/build/carla_ackermann_msgs",
+		"source" : "/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_ackermann_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

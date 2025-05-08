@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/carla_waypoint_types/rosidl_cmake/rosidl_cmake-extras.cmake

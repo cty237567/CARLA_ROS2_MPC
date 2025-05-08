@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_ros_bridge/launch/carla_ros_bridge_with_example_ego_vehicle.launch.py

@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/carla_msgs/rosidl_generator_cpp/carla_msgs/msg/carla_ego_vehicle_status.hpp

@@ -1,0 +1,15 @@
+[1.229s] Invoking command in '/home/vd/carla-ros-bridge/catkin_ws/build/ros_compatibility': PYTHONPATH=/home/vd/carla-ros-bridge/catkin_ws/build/ros_compatibility/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vd/carla-ros-bridge/catkin_ws/install/ros_compatibility/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vd/carla-ros-bridge/catkin_ws/build/ros_compatibility/build --no-deps symlink_data
+[1.404s] running develop
+[1.523s] running egg_info
+[1.523s] writing src/ros_compatibility.egg-info/PKG-INFO
+[1.524s] writing dependency_links to src/ros_compatibility.egg-info/dependency_links.txt
+[1.524s] writing requirements to src/ros_compatibility.egg-info/requires.txt
+[1.524s] writing top-level names to src/ros_compatibility.egg-info/top_level.txt
+[1.524s] reading manifest file 'src/ros_compatibility.egg-info/SOURCES.txt'
+[1.525s] writing manifest file 'src/ros_compatibility.egg-info/SOURCES.txt'
+[1.550s] running build_ext
+[1.550s] Creating /home/vd/carla-ros-bridge/catkin_ws/install/ros_compatibility/lib/python3.10/site-packages/ros-compatibility.egg-link (link to src)
+[1.550s] 
+[1.550s] Installed /home/vd/carla-ros-bridge/catkin_ws/build/ros_compatibility/src
+[1.550s] running symlink_data
+[1.572s] Invoked command in '/home/vd/carla-ros-bridge/catkin_ws/build/ros_compatibility' returned '0': PYTHONPATH=/home/vd/carla-ros-bridge/catkin_ws/build/ros_compatibility/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vd/carla-ros-bridge/catkin_ws/install/ros_compatibility/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vd/carla-ros-bridge/catkin_ws/build/ros_compatibility/build --no-deps symlink_data

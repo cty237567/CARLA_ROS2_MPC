@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_ros_bridge/launch/run_car_sim_Town04.launch.py

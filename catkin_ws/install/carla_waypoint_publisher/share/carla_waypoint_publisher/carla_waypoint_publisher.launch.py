@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/carla_waypoint_publisher/launch/carla_waypoint_publisher.launch.py

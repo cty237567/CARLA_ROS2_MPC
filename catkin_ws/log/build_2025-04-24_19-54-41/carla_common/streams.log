@@ -1,0 +1,15 @@
+[1.123s] Invoking command in '/home/vd/carla-ros-bridge/catkin_ws/build/carla_common': PYTHONPATH=/home/vd/carla-ros-bridge/catkin_ws/build/carla_common/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vd/carla-ros-bridge/catkin_ws/install/carla_common/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vd/carla-ros-bridge/catkin_ws/build/carla_common/build --no-deps symlink_data
+[1.308s] running develop
+[1.429s] running egg_info
+[1.430s] writing src/carla_common.egg-info/PKG-INFO
+[1.430s] writing dependency_links to src/carla_common.egg-info/dependency_links.txt
+[1.430s] writing requirements to src/carla_common.egg-info/requires.txt
+[1.430s] writing top-level names to src/carla_common.egg-info/top_level.txt
+[1.431s] reading manifest file 'src/carla_common.egg-info/SOURCES.txt'
+[1.431s] writing manifest file 'src/carla_common.egg-info/SOURCES.txt'
+[1.456s] running build_ext
+[1.457s] Creating /home/vd/carla-ros-bridge/catkin_ws/install/carla_common/lib/python3.10/site-packages/carla-common.egg-link (link to src)
+[1.457s] 
+[1.457s] Installed /home/vd/carla-ros-bridge/catkin_ws/build/carla_common/src
+[1.457s] running symlink_data
+[1.483s] Invoked command in '/home/vd/carla-ros-bridge/catkin_ws/build/carla_common' returned '0': PYTHONPATH=/home/vd/carla-ros-bridge/catkin_ws/build/carla_common/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vd/carla-ros-bridge/catkin_ws/install/carla_common/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vd/carla-ros-bridge/catkin_ws/build/carla_common/build --no-deps symlink_data

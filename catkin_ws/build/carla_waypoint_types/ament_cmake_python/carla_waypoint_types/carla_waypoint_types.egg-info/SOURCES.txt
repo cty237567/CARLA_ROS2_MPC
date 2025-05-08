@@ -1,0 +1,11 @@
+setup.py
+carla_waypoint_types/__init__.py
+carla_waypoint_types.egg-info/PKG-INFO
+carla_waypoint_types.egg-info/SOURCES.txt
+carla_waypoint_types.egg-info/dependency_links.txt
+carla_waypoint_types.egg-info/top_level.txt
+carla_waypoint_types/msg/__init__.py
+carla_waypoint_types/msg/_carla_waypoint.py
+carla_waypoint_types/srv/__init__.py
+carla_waypoint_types/srv/_get_actor_waypoint.py
+carla_waypoint_types/srv/_get_waypoint.py

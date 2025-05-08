@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "carla_msgs__py",
+		"source" : "/home/vd/carla-ros-bridge/catkin_ws/build/carla_msgs/carla_msgs__py"
+	}
+}

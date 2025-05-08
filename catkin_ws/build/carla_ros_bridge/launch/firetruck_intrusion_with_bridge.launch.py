@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_ros_bridge/launch/firetruck_intrusion_with_bridge.launch.py

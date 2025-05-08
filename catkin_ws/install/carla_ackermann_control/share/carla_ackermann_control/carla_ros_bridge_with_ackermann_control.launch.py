@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/build/carla_ackermann_control/launch/carla_ros_bridge_with_ackermann_control.launch.py

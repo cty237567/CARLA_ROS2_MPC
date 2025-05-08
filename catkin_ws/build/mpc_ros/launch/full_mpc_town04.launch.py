@@ -1,0 +1,1 @@
+/home/vd/carla-ros-bridge/catkin_ws/src/mpc_ros/launch/full_mpc_town04.launch.py

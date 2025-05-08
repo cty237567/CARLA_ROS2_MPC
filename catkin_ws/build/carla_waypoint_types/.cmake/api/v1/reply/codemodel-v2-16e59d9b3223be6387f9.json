@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-7a1f606d0ace0e066d32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "carla_waypoint_types__py",
+					"jsonFile" : "directory-carla_waypoint_types__py-3791529bbe090f05977a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/vd/carla-ros-bridge/catkin_ws/build/carla_waypoint_types/carla_waypoint_types__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "carla_waypoint_types",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_carla_waypoint_types_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_carla_waypoint_types_egg-1402332a6962109b5b08.json",
+					"name" : "ament_cmake_python_build_carla_waypoint_types_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_carla_waypoint_types::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_carla_waypoint_types-c403430d0f00905ebc34.json",
+					"name" : "ament_cmake_python_symlink_carla_waypoint_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types-40eb94b6bd66699eae6b.json",
+					"name" : "carla_waypoint_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__cpp-edb74f519ece96c98a12.json",
+					"name" : "carla_waypoint_types__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "carla_waypoint_types__py::@772a690aa71f82ebd252",
+					"jsonFile" : "target-carla_waypoint_types__py-abd902eab4c0a7a416d6.json",
+					"name" : "carla_waypoint_types__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_generator_c-a407a02e64732b7f5f92.json",
+					"name" : "carla_waypoint_types__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_generator_py-fef9d8a8a459162eb9d2.json",
+					"name" : "carla_waypoint_types__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_c-eb604f155f07aa78a1e3.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_c__pyext-e8ab054d0eda1be77d31.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_cpp-81f6d673cce88e5c6894.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_fastrtps_c-7463499e49386890800b.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_fastrtps_c__pyext-dc7522bf5d0c1edbca09.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_fastrtps_cpp-bd92fe65e82b3b27e061.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_introspection_c-a56a0f477d9ed741f270.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_introspection_c__pyext-bfb0241626ca41d175d4.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types__rosidl_typesupport_introspection_cpp-766dfebd4d19bf031d07.json",
+					"name" : "carla_waypoint_types__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "carla_waypoint_types_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-carla_waypoint_types_uninstall-afa7f8332fda9bee644f.json",
+					"name" : "carla_waypoint_types_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-690ca8b9399d7f7411e9.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vd/carla-ros-bridge/catkin_ws/build/carla_waypoint_types",
+		"source" : "/home/vd/carla-ros-bridge/catkin_ws/src/carla-ros-bridge/carla_waypoint_types"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
