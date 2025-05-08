@@ -256,6 +256,7 @@ Throughout the development process, the following key contributions were made:
 
 Special thanks to the following resources, whose contributions made this work possible:
 
+- [carla-ros-bridge(Main fork)](https://github.com/carla-simulator/ros-bridge)
 - [bearswang/mpc-ros](https://github.com/bearswang/mpc-ros)
 - [LearnOpenCV ROS2 PID blog](https://learnopencv.com/pid-controller-ros-2-carla/)
 - [MPC-Berkeley/carla-ros-bridge](https://github.com/MPC-Berkeley/carla-ros-bridge)
