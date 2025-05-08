@@ -203,8 +203,9 @@ ros2 launch mpc_ros mpc_Town04.launch.py
 
 - `plot_mpc_data.py` reads these CSVs to generate:
   - Vehicle trajectory plot.
+    ![Trail_v1](https://github.com/user-attachments/assets/0dabdebb-77b9-4bc2-83cf-0f16d5347f4b)
   - Control inputs over time plot.
-
+    ![Trail_v1](https://github.com/user-attachments/assets/7b7c94c7-cbbb-43dc-af61-6e70647f54d4)
 
 
 ## 9. Troubleshooting Tips
