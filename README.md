@@ -63,18 +63,8 @@ carla-ros-bridge/
 │   ├── log/
 │   └── src/
 │       ├── carla-ros-bridge/
-│       │   ├── carla_ros_bridge/
-│       │   ├── carla_spawn_objects/
-│       │   └── carla_waypoint_publisher/
+│       │   └──carla_ros_bridge/
 │       └── mpc_ros/
-│           ├── configure/
-│           │   └── config.yaml
-│           ├── launch/
-│           │   └── mpc_Town04.launch.py
-│           └── src/mpc_ros/
-│               ├── static_goal_publisher.py
-│               ├── mpc_town04_node.py
-│               └── mpc_path_tracking.py
 └── README.md
   ```
 
