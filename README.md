@@ -73,7 +73,7 @@ carla-ros-bridge/
 - **Python**: 3.10
 - **ROS 2**: Humble
 - **CARLA**: 0.9.15
-- **Carla-ROS-Bridge**: [GitHub Repo](https://github.com/carla-simulator/carla-ros-bridge)
+- **Carla-ROS-Bridge**: [GitHub Repo](https://github.com/carla-simulator/ros-bridge)
 - **Python Libraries**:
   ```bash
   pip install numpy cvxpy casadi osqp`
