@@ -96,7 +96,7 @@ Follow the official ROS 2 Humble installation guide:
 
 ```bash
 cd ~/carla-ros-bridge/catkin_ws/src
-git clone https://github.com/your-org/carla_ros2_mpc.git
+git clone https://github.com/your-org/CARLA_ROS2_MPC.git
 
 cd ~/carla-ros-bridge/catkin_ws
 colcon build --symlink-install
