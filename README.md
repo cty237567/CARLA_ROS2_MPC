@@ -1,5 +1,3 @@
-Arrange and format finally for my git  , avoid redundancy and add if anthing i missed 
-
 # 🚗 CARLA_ROS2_MPC (Still under development)
 
 This project integrates the CARLA autonomous driving simulator within the ROS 2 Humble framework to implement and test developed MPC algorithm for vehicle path tracking.
